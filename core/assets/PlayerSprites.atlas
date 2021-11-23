@@ -1,0 +1,61 @@
+
+PlayerSprites.png
+format: RGBA8888
+filter: Nearest,Nearest
+repeat: none
+0 LinkDown1
+  rotate: false
+  xy: 1, 1
+  size: 16, 16
+  orig: 16, 16
+  offset: 0, 0
+  index: -1
+0 LinkDown2
+  rotate: false
+  xy: 19, 1
+  size: 16, 16
+  orig: 16, 16
+  offset: 0, 0
+  index: -1
+1 LinkUp1
+  rotate: false
+  xy: 37, 1
+  size: 16, 16
+  orig: 16, 16
+  offset: 0, 0
+  index: -1
+1 LinkUp2
+  rotate: false
+  xy: 55, 1
+  size: 16, 16
+  orig: 16, 16
+  offset: 0, 0
+  index: -1
+2 LinkRight1
+  rotate: false
+  xy: 73, 1
+  size: 16, 16
+  orig: 16, 16
+  offset: 0, 0
+  index: -1
+2 LinkRight2
+  rotate: false
+  xy: 91, 1
+  size: 16, 16
+  orig: 16, 16
+  offset: 0, 0
+  index: -1
+3 LinkLeft1
+  rotate: false
+  xy: 109, 1
+  size: 16, 16
+  orig: 16, 16
+  offset: 0, 0
+  index: -1
+3 LinkLeft2
+  rotate: false
+  xy: 127, 1
+  size: 16, 16
+  orig: 16, 16
+  offset: 0, 0
+  index: -1
